@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1607513325 source:c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\inputgenerico.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"InputGenerico.h"
+
+1607513370 c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\inputgenerico.h
+
+1607522604 source:c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"prestamos.h"
+	"InputGenerico.h"
+
+1607521944 source:c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"InputGenerico.h"
+
+1607523230 c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\clientes.h
+
+1607521782 source:c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+	"prestamos.h"
+	"InputGenerico.h"
+	"informes.h"
+
+1607523230 c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\prestamos.h
+
+1607521723 source:c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"prestamos.h"
+	"InputGenerico.h"
+
+1607523317 c:\users\mai'tities\desktop\molina.matias.rpplabi.1a\informes.h
+
